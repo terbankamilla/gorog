@@ -1,15 +1,39 @@
-﻿body {
-	background-color: #fc9; 
+body {
+	background-color: rgb(223, 194, 164); 
 }
 h1 {
 	color: #f0f;
 
 }
 h2 {
-	color:#84142E;		
+	color:#3f230a;
+	font-family: 'Merriweather', serif;		
 }
 
 p {
-	color: #b58;
+	color: rgb(117, 76, 97);
 }
+figcaption {
+	color:rgb(51, 48, 48)
+
+}
+h3 {
+	font-family: 'EB Garamond', serif;
+	font-weight: bold;
+	text-indent: 10%;
+	color:rgb(48, 21, 7)
+
+	
+}
+header {
+	font-family: 'EB Garamond', serif;
+	color:rgb(39, 21, 4)
+}
+li {
+	font-family: 'EB Garamond', serif;
+	font-weight: bold
+	
+}
+img {
+  border-radius: 8px;
 }
